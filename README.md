@@ -27,9 +27,6 @@ This guide demonstrates how to create and manage a Kubernetes ReplicaSet using a
    kubectl get pods
 6. Use the Pod name to view logs
     ```bash
-    kubectl logs <pod-name>
-  Example:
-    ```bash
     kubectl logs my-replica-jssvs
 
 
